@@ -25,7 +25,7 @@
 			<th>Name</th>
 			<th>Password</th>
 			<th>Email</th>
-			<th>Sex</th>
+			<th>Gender</th>
 			<th>Country</th>
 			<th>Edit</th>
 			<th>Delete</th>
